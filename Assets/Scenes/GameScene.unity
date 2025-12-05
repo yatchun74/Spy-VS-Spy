@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   availableMiniGamePrefabs:
-  - {fileID: -8684038155374398674, guid: 2ea5a30f2733fd942861a7a2dfa16e15, type: 3}
+  - {fileID: -8684038155374398674, guid: 407ddc21a12a82e4fb351bbf2060ff73, type: 3}
 --- !u!4 &549635433
 Transform:
   m_ObjectHideFlags: 0
@@ -835,6 +835,10 @@ PrefabInstance:
     - target: {fileID: 913498599382960913, guid: bd891386d5740ac4db865a0b2d4548cf, type: 3}
       propertyPath: GlobalObjectIdHash
       value: 2298510758
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164932614302456265, guid: bd891386d5740ac4db865a0b2d4548cf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -17.72
       objectReference: {fileID: 0}
     - target: {fileID: 3581901296397675930, guid: bd891386d5740ac4db865a0b2d4548cf, type: 3}
       propertyPath: m_LocalPosition.x
