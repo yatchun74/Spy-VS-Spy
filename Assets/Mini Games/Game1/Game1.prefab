@@ -195,7 +195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   miniGameName: Game1
-  timeLimit: 10
+  timeLimit: 12
   miniGameCanvas: {fileID: 8574420239403947679}
   txtTitle: {fileID: 105063441749537342}
   btnFinish: {fileID: 7283638946001938139}
